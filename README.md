@@ -1,5 +1,5 @@
-# hello-world
-Hello World repository for Git tutorial
-This is an example repository for the Git tutoial on https://www.w3schools.com
-
-This repository is built step by step in the tutorial.
+👋 Hi, I’m Muhammad Armughan Javaid
+👀 I’m interested in web development
+🌱 I’m currently learning more about it.
+💞️ I’m looking to collaborate with others on projects related to this field
+📫 You can contact me at muhammadarmughan67@gmail.com
